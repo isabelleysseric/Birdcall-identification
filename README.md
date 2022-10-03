@@ -18,26 +18,26 @@ Birds-identification
 <br/>
 
 
-# Github
+# Repertoire
 
-- code
-  - birdcall_identification.ipynb
-  - birdcall_identification.py
+- **code**
+  - *birdcall_identification.ipynb*
+  - *birdcall_identification.py*
 
-- data
-  - input
+- **data**
+  - **input**
     - test_soundscapes
-      - COL_recording_location.txt
-      - COR_recording_location.txt
-      - SNE_recording_location.txt
-      - SSW_recording_location.txt
-      - test_set_recording_dates.csv
+      - *COL_recording_location.txt*
+      - *COR_recording_location.txt*
+      - *SNE_recording_location.txt*
+      - *SSW_recording_location.txt*
+      - *test_set_recording_dates.csv*
     - train_soundscapes
-      - 2782_SSW_20170701.ogg
-      - 7019_COR_20190904.ogg
-      - ...
-      - 54955_SSW_20170617.ogg
-      - 57610_COR_20190904.ogg
+      - *2782_SSW_20170701.ogg*
+      - *7019_COR_20190904.ogg*
+      - *...*
+      - *54955_SSW_20170617.ogg*
+      - *57610_COR_20190904.ogg*
     - train_short_audio
       - acafly
          - XC6671.ogg
@@ -48,31 +48,31 @@ Birds-identification
     - train_soundscape_labels.csv
     - train_metadata.csv
     - test.csv
-  - output
+  - **output**
     - train_img
       - acafly
-        - 27_0.jpg
-        - ...
-        - 131_2.jpg
+        - *27_0.jpg*
+        - *...*
+        - *131_2.jpg*
       - ...
       - yetvir
-        - 22_0.jpg
-        - ...
-        - 106_2.jpg
+        - *22_0.jpg*
+        - *...*
+        - *106_2.jpg*
     - test_img
       - acafly
-        - 0_0.jpg
-        - ...
-        - 26_1.jpg
+        - *0_0.jpg*
+        - *...*
+        - *26_1.jpg*
       - ...
       - yetvir
-        - 0_0.jpg
-        - ...
-        - 21_2.jpg
+        - *0_0.jpg*
+        - *...*
+        - *21_2.jpg*
   
-- images
-  - bird-discussion.png
-  - bird-validation.png
-  - bird-experimentation.png
+- **images**
+  - *bird-discussion.png*
+  - *bird-validation.png*
+  - *bird-experimentation.png*
 
 
