@@ -26,31 +26,31 @@ Birds-identification
 
 - **data**
   - **input**
-    - test_soundscapes
+    - **test_soundscapes**
       - *COL_recording_location.txt*
       - *COR_recording_location.txt*
       - *SNE_recording_location.txt*
       - *SSW_recording_location.txt*
       - *test_set_recording_dates.csv*
-    - train_soundscapes
+    - **train_soundscapes**
       - *2782_SSW_20170701.ogg*
       - *7019_COR_20190904.ogg*
       - *...*
       - *54955_SSW_20170617.ogg*
       - *57610_COR_20190904.ogg*
-    - train_short_audio
-      - acafly
-         - XC6671.ogg
-         - ...
-         - XC600277.ogg
+    - **train_short_audio**
+      - **acafly**
+         - *XC6671.ogg*
+         - *...*
+         - *XC600277.ogg*
       - ... (*not here*)
-    - sample_submission.csv
-    - train_soundscape_labels.csv
-    - train_metadata.csv
-    - test.csv
+    - *sample_submission.csv*
+    - *train_soundscape_labels.csv*
+    - *train_metadata.csv*
+    - *test.csv*
   - **output**
-    - train_img
-      - acafly
+    - **train_img**
+      - **acafly**
         - *27_0.jpg*
         - *...*
         - *131_2.jpg*
@@ -59,13 +59,13 @@ Birds-identification
         - *22_0.jpg*
         - *...*
         - *106_2.jpg*
-    - test_img
-      - acafly
+    - **test_img**
+      - **acafly**
         - *0_0.jpg*
         - *...*
         - *26_1.jpg*
       - ...
-      - yetvir
+      - **yetvir**
         - *0_0.jpg*
         - *...*
         - *21_2.jpg*
