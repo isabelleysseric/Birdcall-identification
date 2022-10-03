@@ -20,6 +20,15 @@ Birds-identification
 
 # Repertoire
 
+Dans le dossier **data**, il y a le sous dossier **input** et **output**. 
+
+Dans **input**, il y a les fichiers necessaire à l'execution du programme. Dans **output**, c'est le résutat de la transformation des données sonores en images utilisée lors de la classification.
+
+Dans **code**, il y a le code du programme. On y trouve deux fichiers identiques dont un est executabler avec Jupyter Notebook et un autre avec Python. 
+
+Dans le dossier **images**, il y a trois images utilisées dans le wiki pour visualiser les résultats de chaque étapes. 
+
+
 - **code**
   - *birdcall_identification.ipynb*
   - *birdcall_identification.py*
