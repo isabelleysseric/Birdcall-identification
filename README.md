@@ -2,8 +2,8 @@
 <br/>
 <br/>
 
-[Birds-identification](https://github.com/isabelleysseric/Birds-identification) (GitHub)
-&nbsp; • &nbsp;[Birds-identification](https://github.com/isabelleysseric/Birds-identification/wiki) (Wiki)
+[Birdcall-identification](https://github.com/isabelleysseric/Birdcall-identification) (GitHub)
+&nbsp; • &nbsp;[Birdcall-identification](https://github.com/isabelleysseric/Birdcall-identification/wiki) (Wiki)
 &nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
 &nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
 &nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
