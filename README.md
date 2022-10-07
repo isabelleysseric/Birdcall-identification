@@ -2,11 +2,14 @@
 <br/>
 <br/>
 
-[Birdcall-identification](https://github.com/isabelleysseric/Birdcall-identification) (GitHub)
-&nbsp; • &nbsp;[Birdcall-identification](https://github.com/isabelleysseric/Birdcall-identification/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
-&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
-&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
+
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/Birdcall-identification">Birdcall-identification</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Birdcall-identification/wiki">Birdcall-identification</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
+</p>
 <br/>
 <br/>
 
