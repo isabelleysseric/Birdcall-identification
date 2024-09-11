@@ -1,7 +1,4 @@
-<p align="center">
-  <h1>Birdcall identification (Kaggle Competition)<br>
-  <i>Analysis, Extraction of spectrogram image information</i></h1>
-</p>
+<h1 align="center">Birdcall identification (Kaggle Competition)<br><i>Analysis, Extraction of spectrogram image information</i></h1>
 <p align="center">
   <img src="https://github.com/isabelleysseric/Birdcall-identification/blob/main/images/bird-experimentation.png" />
 </p> 
