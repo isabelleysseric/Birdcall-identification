@@ -29,7 +29,7 @@
 
 ## Introduction
 
-<p align="justify">[BirdCLEF 2021](https://www.kaggle.com/c/birdclef-2021) is a Kaggle competition[1] that aims to classify bird songs by species. This task is very complex due to the very noisy recordings. We propose to extract the mel-spectrogram from the audio files and use a convolutional layer network to perform the classification. ResNet models seem the most promising although pre-training these networks does not seem to be beneficial. Resnet 34 obtains a test accuracy of 52.48%. This suggests that the task is feasible but that there is always room for improvement.</p>
+<p align="justify"><a href="https://www.kaggle.com/c/birdclef-2021" target="_blank">BirdCLEF 2021</a> is a Kaggle competition[1] that aims to classify bird songs by species. This task is very complex due to the very noisy recordings. We propose to extract the mel-spectrogram from the audio files and use a convolutional layer network to perform the classification. ResNet models seem the most promising although pre-training these networks does not seem to be beneficial. Resnet 34 obtains a test accuracy of 52.48%. This suggests that the task is feasible but that there is always room for improvement.</p>
 <br/>
 <br/>
 
