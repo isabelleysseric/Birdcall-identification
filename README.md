@@ -6,6 +6,26 @@
   <img src="https://github.com/isabelleysseric/Birdcall-identification/blob/main/images/bird-experimentation.png" />
 </p> 
 
+<h2 align="center">    
+
+  <!-- GitHub -->
+  <a href="https://github.com/isabelleysseric/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >
+  </a>  
+
+  <!-- Project Repo -->
+  <a href="https://github.com/isabelleysseric/Birdcall-identification/">
+    <img src="https://img.shields.io/badge/Repo-Birdcall_identification-green?style=for-the-badge&logo={Birdcall-identification}&logoColor=white" >
+  </a>
+
+  <!-- Wiki Project -->
+  <a href="https://github.com/isabelleysseric/Birdcall-identification/wiki/">
+    <img src="https://img.shields.io/badge/Wiki-Birdcall_identification-green?style=for-the-badge&logo={Birdcall-identification}&logoColor=white" >
+  </a><br>
+  
+</h2>
+<br/>
+
 
 ## Resume
 
