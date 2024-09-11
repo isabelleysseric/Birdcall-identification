@@ -27,22 +27,22 @@
 <br/>
 
 
-## Resume
+## Introduction
 
-<p align="justify">BirdCLEF 2021, concours Kaggle est une compétition Kaggle[1] qui a pour but de classifier des chants d’oiseaux par espèce. Cette tâche est très complexe en raison des enregistrements très bruités. Nous proposons d’extraire le mel-spectrogramme des fichiers audio et d’utiliser un réseau à couches de convolution afin d’effectuer la classification. Les modèles ResNet semblent les plus prometteurs bien que le pré-entraînement de ces réseaux ne semble pas être bénéfique. Le Resnet 34 obtient une accuracy en test de 52.48%. Ce qui laisse entendre que la tâche est réalisable mais qu’il y a toujours place à amélioration.</p>
+<p align="justify">[BirdCLEF 2021](https://www.kaggle.com/c/birdclef-2021) is a Kaggle competition[1] that aims to classify bird songs by species. This task is very complex due to the very noisy recordings. We propose to extract the mel-spectrogram from the audio files and use a convolutional layer network to perform the classification. ResNet models seem the most promising although pre-training these networks does not seem to be beneficial. Resnet 34 obtains a test accuracy of 52.48%. This suggests that the task is feasible but that there is always room for improvement.</p>
 <br/>
 <br/>
 
 
-## Repertoire
+## Repository
 
-Dans le dossier **data**, il y a le sous dossier **input** et **output**. 
+In the **data** folder, there are the **input** and **output** subfolders.
 
-Dans **input**, il y a les fichiers necessaire à l'execution du programme. Dans **output**, c'est le résutat de la transformation des données sonores en images utilisée lors de la classification.
+In **input**, there are the files necessary to run the program. In **output**, it is the result of the transformation of sound data into images used during the classification.
 
-Dans **code**, il y a le code du programme. On y trouve deux fichiers identiques dont un est executabler avec Jupyter Notebook et un autre avec Python. 
+In **code**, there is the program code. There are two identical files, one of which is executable with Jupyter Notebook and another with Python.
 
-Dans le dossier **images**, il y a trois images utilisées dans le wiki pour visualiser les résultats de chaque étapes. 
+In the **images** folder, there are three images used in the wiki to visualize the results of each step.
 
 
 - **code**
